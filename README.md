@@ -1,2 +1,2 @@
 # Certificados Curso em Video
-Repositório dedicado para exibição de certificados dos cursos que concluí.
+Repositório dedicado à exibição de certificados dos cursos que concluí.
