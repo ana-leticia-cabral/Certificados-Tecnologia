@@ -13,15 +13,16 @@ Este repositório tem como objetivo reunir os certificados que comprovam minha d
 
 ## Certificados  
 
-### 💻 Fundamentos de Tecnologia  
-- **Introdução à Informática - Windows, Word, Internet**  
-- **Tecnologias Educacionais Contemporâneas**  
+### 💻 Fundamentos de Tecnologia
+- **Tecnologias Educacionais Contemporâneas** - Universidade Católica de Brasília - Março de 2024
+- **Introdução à Informática - Windows, Word, Internet** - SENAC - Junho de 2023 
+ 
 
 ### 🔐 Segurança  
-- **Segurança em Tecnologia da Informação**  
+- **Segurança em Tecnologia da Informação** - Fundação Bradesco - Outubro de 2023
 
 ### 🤖 Inteligência Artificial  
-- **Inteligência Artificial para simplificar o dia a dia**  
+- **Inteligência Artificial para simplificar o dia a dia** - ENAP - Outubro de 2023
 
 ### 🛠️ Desenvolvimento de Software  
 - **Git & GitHub**  - Curso em Vídeo - Julho de 2025
