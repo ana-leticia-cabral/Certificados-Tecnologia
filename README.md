@@ -19,6 +19,7 @@ Este repositório tem como objetivo reunir os certificados que comprovam minha d
  
 
 ### 🔐 Segurança  
+- **Segurança da Informação: Módulo 01 [VIP]** - Curso em Vídeo - Setembro de 2025
 - **Segurança em Tecnologia da Informação** - Fundação Bradesco - Outubro de 2023
 
 ### 🤖 Inteligência Artificial  
