@@ -24,10 +24,11 @@ Este repositório tem como objetivo reunir os certificados que comprovam minha d
 - **Inteligência Artificial para simplificar o dia a dia**  
 
 ### 🛠️ Desenvolvimento de Software  
-- **Java Básico**  
-- **Java POO (Programação Orientada a Objetos)**  
-- **MySQL**  
-- **Git & GitHub**  
+- **Git & GitHub**  - Curso em Vídeo - Julho de 2025
+- **Java POO (Programação Orientada a Objetos)** - Curso em Vídeo - Julho de 2025
+- **Java Básico** - Curso em Vídeo - Maio de 2025
+- **MySQL** - Curso em Vídeo - Abril de 2025
+
 
 
 
