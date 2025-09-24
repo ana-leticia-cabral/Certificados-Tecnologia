@@ -26,6 +26,7 @@ Este repositório tem como objetivo reunir os certificados que comprovam minha d
 - **Inteligência Artificial para simplificar o dia a dia** - ENAP - Outubro de 2023
 
 ### 🛠️ Desenvolvimento de Software  
+- **Carreira Desenvolvimento Back-End Java: Boas-vindas e primeiros passos** - Alura - Setembro de 2025
 - **Git & GitHub**  - Curso em Vídeo - Julho de 2025
 - **Java POO (Programação Orientada a Objetos)** - Curso em Vídeo - Julho de 2025
 - **Java Básico** - Curso em Vídeo - Maio de 2025
